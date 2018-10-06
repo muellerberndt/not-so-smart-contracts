@@ -1,5 +1,7 @@
 # (Not So) Smart Contracts
 
+[![GuardRails badge](https://badges.production.guardrails.io/b-mueller/not-so-smart-contracts.svg)](https://www.guardrails.io)
+
 This repository contains examples of common Ethereum smart contract vulnerabilities, including code from real smart contracts. Use Not So Smart Contracts to learn about EVM and Solidity vulnerabilities, as a reference when performing security reviews, and as a benchmark for security and analysis tools.
 
 ## Features
